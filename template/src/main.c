@@ -3,9 +3,7 @@
 #include <string.h>
 
 // map number to name
-const char *map[] = {
-    "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"
-};
+const char *map[] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
 // data structure
 typedef struct Data {

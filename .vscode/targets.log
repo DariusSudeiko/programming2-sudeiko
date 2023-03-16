@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Mar 16 11:46:07 2023
+# Make data base, printed on Fri Mar 17 13:27:13 2023
 
 # Variables
 
@@ -57,7 +57,7 @@ VSCODE_CODE_CACHE_PATH = /home/darius/.config/Code/CachedData/5e805b79fcb6ba4c2d
 # environment
 LANG = C
 # environment
-XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.K6LZ11
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.SQ4Y11
 # default
 .LOADED := 
 # default
@@ -91,13 +91,14 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 3747
+VSCODE_PID = 2561
+ 
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/darius-VirtualBox:@/tmp/.ICE-unix/1820,unix/darius-VirtualBox:/tmp/.ICE-unix/1820
+SESSION_MANAGER = local/darius-VirtualBox:@/tmp/.ICE-unix/1653,unix/darius-VirtualBox:/tmp/.ICE-unix/1653
 # automatic
 *F = $(notdir $*)
 # environment
@@ -139,7 +140,7 @@ LC_MONETARY = nl_BE.UTF-8
 # environment
 LC_TIME = nl_BE.UTF-8
 # environment
-INVOCATION_ID = 5e6a61678401482c89f76af3ba928e36
+INVOCATION_ID = 39d870663fd14f6bb3db2b32f3099dd4
 # environment
 USERNAME = darius
 # environment
@@ -167,7 +168,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := 
 # environment
-SYSTEMD_EXEC_PID = 1836
+SYSTEMD_EXEC_PID = 1719
 # environment
 DISPLAY = :0
 # environment
@@ -177,13 +178,13 @@ GTK_MODULES = gail:atk-bridge
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 1478
+MANAGERPID = 1412
 # environment
 DEBUGINFOD_URLS = https://debuginfod.ubuntu.com 
 # environment
 LC_MEASUREMENT = nl_BE.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 3747
+GIO_LAUNCHED_DESKTOP_FILE_PID = 2561
 # environment
 _ = /usr/share/code/code
 # environment
@@ -191,7 +192,7 @@ LC_PAPER = nl_BE.UTF-8
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
-JOURNAL_STREAM = 8:22806
+JOURNAL_STREAM = 8:22592
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -231,9 +232,9 @@ LC_IDENTIFICATION = nl_BE.UTF-8
 
 # Directories
 
-# . (device 2051, inode 393561): 6 files, no impossibilities.
+# . (device 2051, inode 393561): 7 files, no impossibilities.
 
-# 6 files, no impossibilities in 1 directories.
+# 7 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -283,13 +284,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
- 
-# strcache buffers: 1 (0) / strings = 14 / storage = 125 B / avg = 8 B
-# current buf: size = 8162 B / used = 125 B / count = 14 / avg = 8 B
+# strcache buffers: 1 (0) / strings = 15 / storage = 130 B / avg = 8 B
+# current buf: size = 8162 B / used = 130 B / count = 15 / avg = 8 B
 
-# strcache performance: lookups = 17 / hit rate = 17%
+# strcache performance: lookups = 18 / hit rate = 16%
 # hash-table stats:
-# Load=14/8192=0%, Rehash=0, Collisions=0/17=0%
-# Finished Make data base on Thu Mar 16 11:46:07 2023
+# Load=15/8192=0%, Rehash=0, Collisions=0/18=0%
+# Finished Make data base on Fri Mar 17 13:27:13 2023
 
  
