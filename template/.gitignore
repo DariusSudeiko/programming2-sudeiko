@@ -1,0 +1,15 @@
+# ignore settings
+.vscode
+.idea
+# ignore cmake
+cmake-build-debug
+# ignore binary
+bin/
+# ignore files in the asm folder
+asm/
+# temporary files
+*~
+# *.o
+*.o
+*.out
+
