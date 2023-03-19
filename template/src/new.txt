@@ -1,0 +1,20 @@
+The linked list is: node: 9, nine, len of name 4; prev: (nil), next: 0x555555559420
+node: 8, eight, len of name 5; prev: 0x555555559450, next: 0x5555555593f0
+node: 7, seven, len of name 5; prev: 0x555555559420, next: 0x5555555593c0
+node: 6, six, len of name 3; prev: 0x5555555593f0, next: 0x555555559390
+node: 5, five, len of name 4; prev: 0x5555555593c0, next: 0x555555559360
+node: 4, four, len of name 4; prev: 0x555555559390, next: 0x555555559330
+node: 3, three, len of name 5; prev: 0x555555559360, next: 0x555555559300
+node: 2, two, len of name 3; prev: 0x555555559330, next: 0x5555555592d0
+node: 1, one, len of name 3; prev: 0x555555559300, next: 0x5555555592a0
+node: 0, zero, len of name 4; prev: 0x5555555592d0, next: (nil)
+The linked list in reverse is: node: 0, zero, len of name 4; prev: 0x5555555592d0, next: (nil)
+node: 1, one, len of name 3; prev: 0x555555559300, next: 0x5555555592a0
+node: 2, two, len of name 3; prev: 0x555555559330, next: 0x5555555592d0
+node: 3, three, len of name 5; prev: 0x555555559360, next: 0x555555559300
+node: 4, four, len of name 4; prev: 0x555555559390, next: 0x555555559330
+node: 5, five, len of name 4; prev: 0x5555555593c0, next: 0x555555559360
+node: 6, six, len of name 3; prev: 0x5555555593f0, next: 0x555555559390
+node: 7, seven, len of name 5; prev: 0x555555559420, next: 0x5555555593c0
+node: 8, eight, len of name 5; prev: 0x555555559450, next: 0x5555555593f0
+node: 9, nine, len of name 4; prev: (nil), next: 0x555555559420
